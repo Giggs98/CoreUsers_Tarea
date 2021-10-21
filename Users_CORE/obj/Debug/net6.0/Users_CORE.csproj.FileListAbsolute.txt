@@ -1,0 +1,48 @@
+G:\Users_COREGit\Users_CORE\bin\Debug\net6.0\Users_CORE.deps.json
+G:\Users_COREGit\Users_CORE\bin\Debug\net6.0\Users_CORE.dll
+G:\Users_COREGit\Users_CORE\bin\Debug\net6.0\ref\Users_CORE.dll
+G:\Users_COREGit\Users_CORE\bin\Debug\net6.0\Users_CORE.pdb
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfoInputs.cache
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfo.cs
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.CoreCompileInputs.cache
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb
+G:\Users_COREGit\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.AssemblyReference.cache
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\bin\Debug\net6.0\Users_CORE.deps.json
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\bin\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\bin\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\bin\Debug\net6.0\Users_CORE.pdb
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.AssemblyReference.cache
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfoInputs.cache
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfo.cs
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\CoreUsers_MTWD21-main\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\bin\Debug\net6.0\Users_CORE.deps.json
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\bin\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\bin\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\bin\Debug\net6.0\Users_CORE.pdb
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.AssemblyReference.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfoInputs.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfo.cs
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers - copia\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\bin\Debug\net6.0\Users_CORE.deps.json
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\bin\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\bin\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\bin\Debug\net6.0\Users_CORE.pdb
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.AssemblyReference.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfoInputs.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfo.cs
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
+C:\Users\Giggs\Desktop\Programacion\Nueva carpeta\CoreUsers-Borrador\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb

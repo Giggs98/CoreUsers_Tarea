@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giggs\\Desktop\\Programacion\\Nueva carpeta\\CoreUsers-Borrador\\Users_CORE\\Users_CORE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giggs\\Desktop\\Programacion\\Nueva carpeta\\CoreUsers-Borrador\\Users_CORE\\Users_CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giggs\\Desktop\\Programacion\\Nueva carpeta\\CoreUsers-Borrador\\Users_CORE\\Users_CORE.csproj",
+        "projectName": "Users_CORE",
+        "projectPath": "C:\\Users\\Giggs\\Desktop\\Programacion\\Nueva carpeta\\CoreUsers-Borrador\\Users_CORE\\Users_CORE.csproj",
+        "packagesPath": "C:\\Users\\Giggs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giggs\\Desktop\\Programacion\\Nueva carpeta\\CoreUsers-Borrador\\Users_CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giggs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Giggs\\Desktop\\Programacion\\Universidad\\Tecnologías Web de Código Abierto\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CORE.Connection": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
